@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:abutalebiamir78@gmail.com" >
-    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail-100.svg" />
+    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="35px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail-100.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/" target="_blank">
