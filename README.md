@@ -16,7 +16,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/AmirhosseinAbutalebi" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | GitHub" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/github-128.svg" />
+    <img align="center" alt="AmirhosseinAbutalebi | GitHub" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/github-128.png" />
   </a> &nbsp;&nbsp;
 </p> 
 
