@@ -8,7 +8,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="24px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin-circled.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/" target="_blank">
