@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="mailto:abutalebiamir78@gmail.com" >
-    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail-100.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="24px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin-circled.gif" />
+    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="24px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin-100.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+    <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="24px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram-100.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/AmirhosseinAbutalebi" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | GitHub" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/github-128.png" />
+    <img align="center" alt="AmirhosseinAbutalebi | GitHub" width="26px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/github-128.svg" />
   </a> &nbsp;&nbsp;
 </p> 
 
