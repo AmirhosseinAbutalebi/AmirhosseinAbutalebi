@@ -7,11 +7,11 @@
     <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail-100.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/amirhossein-abutalebi-bb5237236/" target="_blank">
     <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin-100.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/amirhosein_abt/" target="_blank">
     <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram-100.svg" />
   </a> &nbsp;&nbsp;
   
