@@ -22,8 +22,8 @@
 
 <ul>
   <li>👋 Hi, I’m AmirhosseinAbutalebi</li>
-  <li>❤️ I love Creating websites and Programming in Python and Learn new Things.</li>
-  <li>🌱 I’m currently learning Web Development, Rust, Python, and AI.</li>
+  <li>❤️ I love Web Development and Programming in Python and Learn new Things.</li>
+  <li>🌱 I’m currently learning Web Development With Asp.net.</li>
 </ul>
 
 
