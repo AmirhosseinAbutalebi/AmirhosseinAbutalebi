@@ -14,10 +14,6 @@
   <a href="https://www.instagram.com/amirhosein_abt/" target="_blank">
     <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram-100.svg" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://github.com/AmirhosseinAbutalebi" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | GitHub" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/github-128.svg" />
-  </a> &nbsp;&nbsp;
 </p> 
 
 <ul>
