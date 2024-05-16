@@ -3,13 +3,13 @@
 </p>
 <p align="center">
   <a href="mailto:abutalebiamir78@gmail.com" >
-    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail.svg" />
-  </a> 
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://www.linkedin.com/in/amirhossein-abutalebi-bb5237236/">
-    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin.svg" />
-  </a> 
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://www.instagram.com/amirhosein_abt/">
-    <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram.svg" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a> 
 </p> 
 
