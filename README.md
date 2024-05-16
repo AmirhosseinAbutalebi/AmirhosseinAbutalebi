@@ -22,6 +22,25 @@
   <li>🌱 I’m currently learning Web Development With Asp.net.</li>
 </ul>
 
+<h2>
+  Skill
+</h2>
+
+<p align="center">
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,mongodb,linux,docker,vim,git&perline=4" />
+  </a>
+</p>
+
+<h2>
+  Stats
+</h2>
+
+![AmirhosseinAbutalebi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirhosseinAbutalebi&show_icons=true&theme=monokai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinAbutalebi&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
