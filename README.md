@@ -25,8 +25,9 @@
 
 <p align="center">
   <br>
-    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,mongodb,linux,docker,vim,git&perline=4" />
-  </a>
+    <a href="https://skillicons.dev/">
+        <img src="https://skillicons.dev/icons?i=py,cs,dotnet,mongodb,linux,docker,vim,git&perline=4" />
+    </a>
 </p>
 
 <h2>
