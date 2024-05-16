@@ -1,19 +1,16 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/AmirhosseinAbutalebi">AmirhosseinAbutalebi</a>'s Profile 👋</h1>
 </p>
-
 <p align="center">
   <a href="mailto:abutalebiamir78@gmail.com" >
-    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail-100.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/amirhossein-abutalebi-bb5237236/" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin-100.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/amirhosein_abt/" target="_blank">
-    <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="50px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram-100.svg" />
-  </a> &nbsp;&nbsp;
+    <img align="center" alt="AmirhosseinAbutalebi | Gmail" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/gmail.svg" />
+  </a> 
+  <a href="https://www.linkedin.com/in/amirhossein-abutalebi-bb5237236/">
+    <img align="center" alt="AmirhosseinAbutalebi | Linkedin" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/linkedin.svg" />
+  </a> 
+  <a href="https://www.instagram.com/amirhosein_abt/">
+    <img align="center" alt="AmirhosseinAbutalebi | Instagram" width="100px" src="https://github.com/AmirhosseinAbutalebi/AmirhosseinAbutalebi/blob/main/instagram.svg" />
+  </a> 
 </p> 
 
 <ul>
