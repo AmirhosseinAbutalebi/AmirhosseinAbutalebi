@@ -20,7 +20,7 @@
 </ul>
 
 <h2>
-  Skill
+  Skills
 </h2>
 
 <p align="center">
