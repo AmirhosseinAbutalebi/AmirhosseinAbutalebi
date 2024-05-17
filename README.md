@@ -36,8 +36,8 @@
 
 <p align="center">
   <a href="https://github.com/AmirhosseinAbutalebi">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AmirhosseinAbutalebi&show_icons=true&theme=monokai" style="max-width:100%;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinAbutalebi&layout=compact&theme=monokai" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmirhosseinAbutalebi&show_icons=true&theme=monokai" style="max-width:50%;height:12em;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhosseinAbutalebi&layout=compact&theme=monokai" style="max-width:50%;height:12em;">
 <p>
 
 <!--
