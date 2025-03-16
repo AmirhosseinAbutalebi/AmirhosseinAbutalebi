@@ -26,7 +26,7 @@
 <p align="center">
   <br>
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=py,vue,dotnet,mongodb,linux,docker,vim,git&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nuxt,vue,dotnet,mongodb,linux,docker,vim,git&perline=4" />
     </a>
 </p>
 
