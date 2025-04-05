@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/amirhossein-abutalebi-bb5237236/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/amirhosein_abt/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a> 
 </p> 
 
 <ul>
