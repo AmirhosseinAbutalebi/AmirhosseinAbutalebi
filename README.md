@@ -23,7 +23,7 @@
 <p align="center">
   <br>
     <a href="https://skillicons.dev/">
-        <img src="https://skillicons.dev/icons?i=linux, dotnet, nuxt,git&perline=4" />
+        <img src="https://skillicons.dev/icons?i=linux,dotnet,nuxt,git" />
     </a>
 </p>
 
